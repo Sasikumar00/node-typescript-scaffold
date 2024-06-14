@@ -1,1 +1,1 @@
-# node-typescript-scaffold
+# Node-TypeScript MVC Scaffolding
